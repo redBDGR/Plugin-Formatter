@@ -1,0 +1,15 @@
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\bin\Debug\Plugin Formatter.exe.config
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\bin\Debug\Plugin Formatter.exe
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\bin\Debug\Plugin Formatter.pdb
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin Formatter.csprojAssemblyReference.cache
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\MainWindow.g.cs
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\App.g.cs
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin Formatter_MarkupCompile.cache
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin Formatter_MarkupCompile.lref
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\MainWindow.baml
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin Formatter.g.resources
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin_Formatter.Properties.Resources.resources
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin Formatter.csproj.GenerateResource.cache
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin Formatter.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin Formatter.exe
+C:\Users\Jacob\OneDrive - redBDGR\Dev\Projects\C#\Plugin Formatter\Plugin Formatter\obj\Debug\Plugin Formatter.pdb
